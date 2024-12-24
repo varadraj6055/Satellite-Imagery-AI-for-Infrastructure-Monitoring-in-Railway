@@ -7,7 +7,7 @@ This project leverages high-resolution satellite imagery (1-3 meters) and AI-bas
 ![infrabel_3dmasc](https://github.com/user-attachments/assets/9c0dd4eb-cfc3-4aee-8a1b-0c3e8b9b334e)
 
 
-##Features
+## Features
 
 High-Resolution Imagery: Captures detailed features of railway infrastructure for accurate monitoring.
 
@@ -17,7 +17,7 @@ Models used: YOLO, Faster R-CNN, and SSD.
 
 Applications: Identifying rail tracks, bridges, vegetation, and detecting anomalies.
 
-##Big Data Integration:
+## Big Data Integration:
 
 Process and analyze large-scale imagery using Apache Spark.
 
@@ -25,33 +25,31 @@ Cloud-based storage for scalability and real-time data access.
 
 Visual Insights: GIS integration and dashboards for anomaly visualization and reporting.
 
-##Workflow
-
-Data Collection:
+## Data Collection:
 
 Acquire satellite imagery from sources like Sentinel-2 or Maxar.
 
 Annotate images with domain-specific features.
 
-##Preprocessing:
+## Preprocessing:
 
 Georeference and align imagery.
 
 Enhance resolution and remove noise.
 
-##Model Training:
+## Model Training:
 
 Train object detection models (YOLO, Faster R-CNN, SSD) using annotated datasets.
 
 Fine-tune models for railway-specific anomalies.
 
-##Big Data Processing:
+## Big Data Processing:
 
 Use distributed frameworks like Apache Spark for imagery analysis.
 
 Store results in NoSQL databases for efficient retrieval.
 
-##Visualization:
+## Visualization:
 
 Display detected anomalies and conditions on GIS platforms.
 
@@ -67,7 +65,7 @@ cd railway-infra-monitoring
 https://drive.google.com/file/d/1jwiejhIp71Zup0f4ikDuiJ6F6GvFvxls/view?usp=sharing
 
 
-##Install dependencies:
+## Install dependencies:
 
 pip install -r requirements.txt
 
@@ -89,12 +87,12 @@ GIS Tools: QGIS, ArcGIS
 
 ##Visualization: Tableau, Power BI
 
-#Contributions
-#our Whole Team Worked Together 
-#Members 1: Kharosekar Varadraj Abhay
-#Member 2 : V Tharun 
-#Member 3: Ransingh Vedant 
-#Member 4: Ashraf M
-#Member 5 : Khan Samim Masud
+# Contributions
+# our Whole Team Worked Together 
+# Members 1: Kharosekar Varadraj Abhay
+# Member 2 : V Tharun 
+# Member 3: Ransingh Vedant 
+# Member 4: Ashraf M
+# Member 5 : Khan Samim Masud
 
 We welcome contributions to enhance the project. Feel free to fork the repository and create pull requests.
