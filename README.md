@@ -87,12 +87,12 @@ GIS Tools: QGIS, ArcGIS
 
 ##Visualization: Tableau, Power BI
 
-# Contributions
-# our Whole Team Worked Together 
-# Members 1: Kharosekar Varadraj Abhay
-# Member 2 : V Tharun 
-# Member 3: Ransingh Vedant 
-# Member 4: Ashraf M
-# Member 5 : Khan Samim Masud
+## Contributions
+## our Whole Team Worked Together 
+## Members 1: Kharosekar Varadraj Abhay
+## Member 2 : V Tharun 
+## Member 3: Ransingh Vedant 
+## Member 4: Ashraf M
+## Member 5 : Khan Samim Masud
 
 We welcome contributions to enhance the project. Feel free to fork the repository and create pull requests.
