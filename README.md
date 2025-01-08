@@ -4,7 +4,10 @@ Project Overview
 
 This project leverages high-resolution satellite imagery (1-3 meters) and AI-based object detection models to monitor and assess railway infrastructure. The goal is to detect anomalies, such as cracks or vegetation encroachment, and monitor the condition of tracks and bridges using state-of-the-art technologies.
 
-![media_15f54c9517a06b4e27ad525599cc5c08faebcbfc4](https://github.com/user-attachments/assets/2469c4ae-26e2-4cc2-81e8-c4e40c50af84)
+## OUTPUT
+![media_1c89344e6c05eb4faa7db68bc0a2c7e9bb3f145d8](https://github.com/user-attachments/assets/4b15f946-bb31-48a5-a996-515e4d82af63)
+
+
 
 
 ## Features
